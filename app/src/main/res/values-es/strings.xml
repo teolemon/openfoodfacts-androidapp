@@ -178,11 +178,11 @@
   <string name="txtContentDialogUploading">Por favor no salga durante el proceso...</string>
   <string name="txtAbout">Las imágenes que ha enviado son publicadas bajo la licencia libre Creative Commons Attribution and ShareAlike</string>
   <string name="txtAllsent">Productos enviados</string>
-  <string name="txtPalm">El producto no contiene nada de aceite de palma</string>
+  <string name="txtPalm">El producto no contiene aceite de palma</string>
   <string name="txtBarcodeNotValid">Código de barras no válido</string>
   <string name="try_it_scan_now">Escanear producto</string>
   <string name="share">Compartir</string>
-  <string name="msg_share">Mire el producto en Open Food Facts :</string>
+  <string name="msg_share">Mira este producto en Open Food Facts :</string>
   <string name="create_account">Registrarse</string>
   <string name="home_drawer">Inicio</string>
   <string name="open_beauty_drawer">Open Beauty Facts</string>
@@ -215,7 +215,7 @@
   <string name="msg_input_empty">Favor de llenar los campos primero.</string>
   <string name="new_offline_info">Favor de tomar una imagen del producto, ingredientes, tabla de información nutricional y otra información en la etiqueta. Gracias!</string>
   <!-- Strings related to login -->
-  <string name="error_invalid_password">The password needs to be at least 6 characters long.</string>
+  <string name="error_invalid_password">La contraseña debe tener al menos 6 caracteres.</string>
   <string name="error_field_required">Este campo es obligatorio.</string>
   <string name="action_preferences">Preferencias</string>
   <string name="prefs_scan_startup">Escanear al arrancar</string>
@@ -273,8 +273,8 @@
   <string name="search_hint">Buscar artículo</string>
   <string name="number_of_results">Número de resultados :</string>
   <string name="txt_no_results">No se encontraron resultados</string>
-  <string name="txt_extend_search">Try broadening your search or add the product</string>
-  <string name="txt_cant_load_search_results">Can\'t load search results</string>
+  <string name="txt_extend_search">Intente ampliar su búsqueda o agregue el producto</string>
+  <string name="txt_cant_load_search_results">No se puede cargar los resultados de búsqueda</string>
   <string name="txt_try_again">Vuelva a intentar</string>
   <string name="nutrition_lactose">Lactosa</string>
   <string name="nutrition_casein">Caseína</string>
