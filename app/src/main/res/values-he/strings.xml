@@ -289,8 +289,8 @@
   <string name="nutrition_chlore">כלור</string>
   <string name="nutrition_magnesium">מגנזיום</string>
   <string name="nutrition_taurine">טאורין</string>
-  <string name="nutrition_monounsaturatedFat">Mono unsaturated fat</string>
-  <string name="nutrition_polyunsaturatedFat">Poly unsaturated fat</string>
+  <string name="nutrition_monounsaturatedFat">שומן חד בלתי רווי</string>
+  <string name="nutrition_polyunsaturatedFat">שומן רב בלתי רווי</string>
   <string name="nutrition_omega3">אומגה 3</string>
   <string name="nutrition_omega6">אומגה 6</string>
   <string name="nutrition_omega9">אומגה 9</string>
